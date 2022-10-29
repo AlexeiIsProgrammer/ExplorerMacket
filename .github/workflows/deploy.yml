@@ -1,4 +1,4 @@
-name: Deploy bootstrap project to GitHub Pages
+name: Deploy React project to GitHub Pages
 
 on:
   push:
