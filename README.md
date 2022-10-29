@@ -1,3 +1,3 @@
 # ExplorerMacket
 
-## [Check WebSite] (https://alexeiisprogrammer.github.io/ExplorerMacket/)
+## [Check WebSite](https://alexeiisprogrammer.github.io/ExplorerMacket/)
